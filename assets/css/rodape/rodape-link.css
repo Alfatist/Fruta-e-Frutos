@@ -1,0 +1,9 @@
+.rodape__link {
+  color: #530053 !important;
+  text-decoration: none;
+}
+
+.rodape__link:hover {
+  text-decoration: underline;
+  filter: brightness(1.1);
+}
